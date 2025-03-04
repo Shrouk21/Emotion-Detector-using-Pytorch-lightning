@@ -59,9 +59,6 @@ python test.py
 - Experimenting with data augmentation
 - Using pre-trained models like ResNet for better feature extraction
 
-## Contributors
-- Your Name
 
-## License
-This project is open-source and available under the MIT License.
+
 
